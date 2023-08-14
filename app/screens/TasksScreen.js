@@ -1,11 +1,11 @@
 import { View, Text } from 'react-native';
 
-const WelcomeScreen = () => {
+const TasksScreen = () => {
   return (
     <View>
-      <Text>TODO</Text>
+      <Text>TasksScreen</Text>
     </View>
   );
 };
 
-export default WelcomeScreen;
+export default TasksScreen;
